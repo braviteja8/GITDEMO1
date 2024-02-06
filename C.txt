@@ -1,1 +1,2 @@
-Hey class.Today we are gng to learn git and github.
+Hey class.Today we are gng to learn git
+and github.
