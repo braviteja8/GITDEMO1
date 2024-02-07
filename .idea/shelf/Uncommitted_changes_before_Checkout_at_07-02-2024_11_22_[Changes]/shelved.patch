@@ -1,0 +1,15 @@
+Index: A.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>hi;ravi\r\nhow are uuu.hey students.
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/A.txt b/A.txt
+--- a/A.txt	
++++ b/A.txt	
+@@ -1,2 +1,1 @@
+-hi;ravi
+-how are uuu.hey students.
+\ No newline at end of file
++hi ravi
