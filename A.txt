@@ -1,1 +1,2 @@
 hi raviteja;
+Adding randoom stuff in A.txt file.
